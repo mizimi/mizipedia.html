@@ -28,15 +28,15 @@ if(x=="4"){xxx="the-way-to-start-business-at-home.html"}
 if(x=="5"){xxx="read-through-several-video-game-reviews.html"}
 
     
-      output.value = "https://lapaktemplatemp.blogspot.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
+      output.value = "https://file.mizipedia.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
     } else {
-      output.value = "https://lapaktemplatemp.blogspot.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
+      output.value = "https://file.mizipedia.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
     } else {
-      output.value = "https://lapaktemplatemp.blogspot.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
+      output.value = "https://file.mizipedia.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
     } else {
-      output.value = "https://lapaktemplatemp.blogspot.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
+      output.value = "https://file.mizipedia.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link
     } else {
-      output.value = "https://lapaktemplatemp.blogspot.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link;
+      output.value = "https://file.mizipedia.com/2019/09/"+xxx+"?url=" + Base64.encode(this.value); //change with your link;
     }
   }
 //]]>
